@@ -17,7 +17,7 @@ using ServiceHost.Controllers;
 using ShopManagement.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//این پروژه متعلق به ابوالفضل رستمی می باشد
 #region DbContext
 
 // Add service in Shop
